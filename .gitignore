@@ -1,0 +1,13 @@
+/venv
+/doc
+/data
+/resources
+__pycache__
+wandb
+models_old
+models
+/img
+/biblio
+/models-all
+/models
+/submission
