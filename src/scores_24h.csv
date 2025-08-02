@@ -1,0 +1,31 @@
+Rank,Team,Outcome AUROC on the test set,Challenge Score on the test set
+1,AIrhythm,0.864,0.649
+2,TUD_EEG,0.865,0.644
+3,ComaToss,0.814,0.589
+4,MIWEAR,0.801,0.554
+5,PKU_NIHDS,0.808,0.525
+6,The BEEGees,0.827,0.52
+7,MetaHeart_YNNU,0.748,0.485
+8,WesternUni,0.795,0.48
+9,Blue and Gold,0.741,0.465
+9,EEG pz lmn sqz,0.676,0.465
+11,ibmtPeakyFinders,0.76,0.46
+11,SwarthBeat,0.79,0.46
+13,UCASFighters,0.771,0.45
+14,BrAInstorm,0.767,0.446
+15,EEGnition,0.771,0.411
+16,am_vision,0.783,0.401
+17,Univ_Pittsburgh,0.747,0.391
+18,AIMED,0.775,0.386
+19,FINDING_MEMO,0.763,0.381
+20,ComaToast,0.755,0.361
+21,CQUPT_FP_mana,0.682,0.332
+22,Data Doctors,0.745,0.322
+23,Medics,0.755,0.317
+24,UFC_MDCC,0.741,0.312
+25,unimi_bisp_squad,0.708,0.302
+26,RPG@IISC,0.658,0.287
+27,Aircas,0.62,0.282
+28,FMMGroup_UVa,0.684,0.262
+29,Revenger,0.755,0.257
+30,AHU lab,0.544,0.233

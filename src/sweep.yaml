@@ -1,0 +1,24 @@
+method: bayes
+metric:
+  name: macro_auc
+  goal: maximize
+
+parameters:
+  n_estimators:
+    min: 50
+    max: 200
+  max_depth:
+    min: 9
+    max: 13
+  learning_rate:
+    min: 0.15
+    max: 0.3
+  subsample:
+    min: 0.85
+    max: 1.0
+  colsample_bytree:
+    min: 0.5
+    max: 0.85
+  num_leaves:
+    min: 40
+    max: 100
